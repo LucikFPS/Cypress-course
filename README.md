@@ -1,3 +1,3 @@
 # Cypress-course
 
-Task was done here: src > mainFile.js
+Task with objects are in src > objectsTask.js (sorry for being late)
